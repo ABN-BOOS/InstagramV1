@@ -1,4 +1,4 @@
-#The Credit For This Code Goes To Sidra ELEzz
+#The Credit For This Code Goes To ABN BOOS
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2021.
 string4=$(openssl rand -hex 32 | cut -c 1-4)
@@ -17,11 +17,11 @@ ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 clear
 
 banner() {
-figlet -f slant "Sidra" | lolcat
+figlet -f slant "ABN BOOS" | lolcat
 echo "<=====================[✺]====================>" | lolcat
-echo "<=====[       Script By Sidra ELEzz       ]=====>" | lolcat
-echo  "<=====[  Telegram: https://t.me/TT_RQ.    ]=====>" | lolcat
-echo  "<=====[  YouTube : Termux Tools           ]=====>" | lolcat
+echo "<=====[       Script By ABN BOOS      ]=====>" | lolcat
+echo  "<=====[  Telegram: https://t.me/joinchat/7L-0fQqPCYs2ZTVk    ]=====>" | lolcat
+echo  "<=====[  YouTube :            ]=====>" | lolcat
 echo "<=====================[✺]====================>" | lolcat
 
 }
@@ -183,16 +183,16 @@ login_user
 increase_followers
 
 elif [[ $option -eq 2 ]]; then
-echo "Author : Sidra ELEzz " | lolcat
-echo "Telegram : https://t.me/SS_SS_1" | lolcat
-echo "Telegram : https://t.me/TT_RQ" | lolcat
-echo "Telegram : https://t.me/TT_RQ1" | lolcat
-echo "Telegram : https://t.me/O1OOB" | lolcat
-echo "Telegram : https://t.me/UUU0UB" | lolcat
+echo "Author : ABN BOOS " | lolcat
+echo "Telegram : https://t.me/joinchat/7L-0fQqPCYs2ZTVk" | lolcat
+echo " Whatsapp: https://iwtsp.com/6285202720864" | lolcat
 echo "YouTube : Termux Tools " | lolcat
 
 
-figlet -f slant "Sidra" | lolcat
+
+
+
+figlet -f slant "ABN BOOS" | lolcat
 exit
 
 else
